@@ -454,7 +454,17 @@ function getData(){
 	B07G6P6649: {US: "https://amzn.to/3bN2Ens",CA: "",UK: ""},
 	B0753WF667: {US: "https://amzn.to/32fCTJf",CA: "",UK: ""},
 	B00MWTJ9OA: {US: "https://amzn.to/2FrDM8k",CA: "",UK: ""},
-	B088K66GBB: {US: "",CA: "",UK: ""}
+	B088K66GBB: {US: "https://amzn.to/35ppfVG",CA: "",UK: ""},
+	B07CZ1CF79: {US: "https://amzn.to/2Rj6one",CA: "",UK: ""},
+	B01MXNLIET: {US: "https://amzn.to/3bLnaEU",CA: "",UK: ""},
+	B012J1TFTE: {US: "https://amzn.to/3m6Lg1H",CA: "",UK: ""},
+	B01ET84Y46: {US: "https://amzn.to/3ipeM0f",CA: "",UK: ""},
+	B01H4TKED2: {US: "https://amzn.to/2Rjf90m",CA: "",UK: ""},
+	B01EAG9XLG: {US: "https://amzn.to/32hyIwu",CA: "",UK: ""},
+	B016WJWC0S: {US: "https://amzn.to/3m6ekpU",CA: "",UK: ""},
+	B00H2RSA88: {US: "https://amzn.to/2RutuYd",CA: "",UK: ""},
+	B01EAG9X84: {US: "https://amzn.to/2FwGlpG",CA: "",UK: ""},
+	B074NDQ143: {US: "https://amzn.to/32meGRi",CA: "",UK: ""}
 	}
 	return dataAMZ;
 }
