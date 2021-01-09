@@ -33,7 +33,12 @@ function getData(){
 	B002FU5SKU: {US: "https://amzn.to/3biRMiF",CA: "",UK: ""},
 	B014VBOIOC: {US: "https://amzn.to/38mnAl4",CA: "",UK: ""},
 	B07D2V7TMY: {US: "https://amzn.to/39fvmwj",CA: "",UK: ""},
-	B07CN38M23: {US: "https://amzn.to/3orDsbo",CA: "",UK: ""}
+	B07CN38M23: {US: "https://amzn.to/3orDsbo",CA: "",UK: ""},
+	B01ET84Y46: {US: "https://amzn.to/2Lx037O",CA: "",UK: ""},
+	B01EAG9XLG: {US: "https://amzn.to/3scG3Zl",CA: "",UK: ""},
+	B002G51BZU: {US: "",CA: "",UK: ""},
+	B01MCUXJX1: {US: "https://amzn.to/39b1gtV",CA: "",UK: ""},
+	B001ARYU58: {US: "https://amzn.to/3ooraAA",CA: "",UK: ""}
 	}
 	return dataAMZ;
 }
