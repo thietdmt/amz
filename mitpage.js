@@ -49,7 +49,8 @@ function getData(){
 	B073VBWKJZ: {US: "https://amzn.to/2ZFjbo0",CA: "",UK: ""},
 	B004918MO2: {US: "https://amzn.to/3qJ5kJm",CA: "",UK: ""},
 	B071VYD4WZ: {US: "https://amzn.to/3aMk1pD",CA: "",UK: ""},
-	B00VFDJGCE: {US: "https://amzn.to/3sjKuRk",CA: "",UK: ""}
+	B00VFDJGCE: {US: "https://amzn.to/3sjKuRk",CA: "",UK: ""},
+	B01MCUXJX1: {US: "https://amzn.to/39uIMWe",CA: "",UK: ""}
 	}
 	return dataAMZ;
 }
