@@ -186,7 +186,31 @@ function getData(){
 			B077HW9XM7: {href: "https://amzn.to/3uBHYai",nameProduct: ``,image: '',summary: ``,slug: ""},
 			B07144LZ9V: {href: "https://amzn.to/3hdAQ04",nameProduct: ``,image: '',summary: ``,slug: ""},
 			B07FTN21JL: {href: "https://amzn.to/3bf5d2s",nameProduct: ``,image: '',summary: ``,slug: ""},
-			B002KV1MJU: {href: "https://amzn.to/3hep71t",nameProduct: ``,image: '',summary: ``,slug: ""}
+			B002KV1MJU: {href: "https://amzn.to/3hep71t",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B0722YZ1R1: {href: "https://amzn.to/3eSTokN",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B01DE8PN10: {href: "https://amzn.to/3tVgj2W",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B07GXZ49DY: {href: "https://amzn.to/3tTMpfE",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B07F3FTJCM: {href: "https://amzn.to/3uVYJ03",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B01DLPUWL2: {href: "https://amzn.to/33STAdv",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B07RSM91SY: {href: "https://amzn.to/3uUe7dj",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B0128T2HQK: {href: "https://amzn.to/3fnINxb",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B08WYYNXKQ: {href: "https://amzn.to/2Qt5FTE",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B07J31T4NC: {href: "https://amzn.to/3v6PHxi",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B06W54K29J: {href: "https://amzn.to/3oobL3Z",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B00JJ5I7GQ: {href: "https://amzn.to/3yf6xfz",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B07B4YXMK9: {href: "https://amzn.to/3uTk8Hu",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B003IBGL7O: {href: "https://amzn.to/3eTcZRH",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B071HNQSCM: {href: "https://amzn.to/3op7M7t",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B003145K3E: {href: "https://amzn.to/3fp7yZV",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B008UHXUSO: {href: "https://amzn.to/3ooj4sC",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B074QWYM22: {href: "https://amzn.to/3uPYrb8",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B002WKJ5ES: {href: "https://amzn.to/3uUOYiV",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B07S864GPW: {href: "https://amzn.to/3eUrZyO",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B00UCIOWRM: {href: "https://amzn.to/33WmE3z",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B003OBUE5I: {href: "https://amzn.to/2S3OyYI",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B00474X5DO: {href: "https://amzn.to/3tTNXGu",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B00Q7EPSHI: {href: "https://amzn.to/3opE0PL",nameProduct: ``,image: '',summary: ``,slug: ""},
+			B01MCUXJX1: {href: "https://amzn.to/3bvYvW3",nameProduct: ``,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
